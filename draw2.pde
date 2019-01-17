@@ -23,4 +23,9 @@ void draw(){
    //stick figures right leg
    line(450,220,390,300);
    
+   //start of house
+   rect(30, 75, 55, 55);
+   //roof of house
+   triangle(25, 75, 58, 20, 91, 75);
+   
 }
